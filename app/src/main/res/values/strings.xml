@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">OtusCourutines</string>
+    <string name="budget">Бюджет %s</string>
+    <string name="error">Что-то пошло не так!</string>
+    <string name="error_btn">Попробовать снова</string>
 </resources>
